@@ -1,1 +1,3 @@
 este es el primer archivo del proyecto 2 creado por Raul
+
+para la practica de comandos basicos de git
